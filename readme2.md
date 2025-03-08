@@ -22,3 +22,15 @@
 3. **Run Transformations**: Use `dbt run` to apply transformations.
 4. **Test Data Quality**: Use `dbt test` to validate transformations.
 5. **Deploy & Document**: Use `dbt docs generate` to create **lineage diagrams**.
+
+---
+
+## 4️⃣ Core Components of dbt
+| **Component** | **Description** |
+|--------------|---------------|
+| **Models (`.sql` files)** | SQL queries defining data transformations |
+| **Seeds** | Load small datasets (CSV) into the warehouse |
+| **Snapshots** | Track historical changes in data |
+| **Macros** | Reusable SQL code blocks (like functions) |
+| **Tests** | Validates data integrity (e.g., uniqueness, nulls) |
+| **Documentation** | Auto-generates docs & lineage |
