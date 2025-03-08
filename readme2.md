@@ -45,3 +45,12 @@
 - **Databricks SQL**
 
 ---
+
+## 6️⃣ Basic dbt Commands
+dbt init my_project    # Create a new dbt project
+cd my_project          # Navigate to the project folder
+dbt run                # Run transformations
+dbt test               # Run data tests
+dbt compile            # Compile SQL queries
+dbt docs generate      # Generate documentation
+dbt debug              # Debug connection issues
