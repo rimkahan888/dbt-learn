@@ -34,7 +34,7 @@
 | **Macros** | Reusable SQL code blocks (like functions) |
 | **Tests** | Validates data integrity (e.g., uniqueness, nulls) |
 | **Documentation** | Auto-generates docs & lineage |
-
+   
 ---
 
 ## 5️⃣ Supported Data Warehouses
