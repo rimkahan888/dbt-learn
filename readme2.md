@@ -54,3 +54,4 @@ dbt test               # Run data tests
 dbt compile            # Compile SQL queries
 dbt docs generate      # Generate documentation
 dbt debug              # Debug connection issues
+   
