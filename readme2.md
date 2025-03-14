@@ -3,8 +3,8 @@
 ## 1️⃣ What is dbt?
 - **dbt (Data Build Tool)** is an open-source analytics engineering tool used for **transforming data** inside a data warehouse.
 - It enables **SQL-based transformations**, **modularity**, and **version control** for analytics workflows.
-
----
+   
+  ---
 
 ## 2️⃣ Key Features of dbt
 - **SQL-Driven Transformations**: Write SQL queries to clean, join, and transform data.
