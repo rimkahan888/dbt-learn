@@ -13,7 +13,7 @@
 - **Version Control with Git**: Track changes in data models using **Git**.
 - **Incremental Processing**: Supports **incremental data loads** to optimize performance.
 - **Documentation & Lineage**: Auto-generates documentation and **visualizes data dependencies**.
-
+   
 ---
 
 ## 3️⃣ dbt Workflow
