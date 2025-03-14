@@ -43,7 +43,7 @@
 - **Amazon Redshift**
 - **PostgreSQL**
 - **Databricks SQL**
-
+   
 ---
 
 ## 6️⃣ Basic dbt Commands
